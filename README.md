@@ -1,4 +1,5 @@
 ### Hi there, my name is Justin Wu👋
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
 <!--
 **justinweiyungwu/justinweiyungwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
